@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello I am Git, World!\n");
+    printf("Hello I am Prashanth, World!\n");
     return 0;
 }
 
